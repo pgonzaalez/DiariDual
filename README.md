@@ -1,4 +1,4 @@
-#Diari Dual
+###### Diari Dual
 
 ### Presentació de l’alumne
 ● Nom, cognoms, ciutat o població on residiu.
