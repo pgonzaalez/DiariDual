@@ -1,10 +1,5 @@
 #Diari Dual
 
-**Índex**
-
-[TOC]
-
-
 ### Presentació de l’alumne
 ● Nom, cognoms, ciutat o població on residiu.
 ● Breu descripció de l’institut Nicolau Copèrnic (localització, cicles que s’estan cursant,
