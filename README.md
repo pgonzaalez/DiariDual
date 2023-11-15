@@ -3,6 +3,7 @@
 ### Presentació de l’alumne
 ● Nom, cognoms, ciutat o població on residiu.
 Pol González Miranda, Terrassa.
+
 ● Breu descripció de l’institut Nicolau Copèrnic (localització, cicles que s’estan cursant,
 nombre d’alumnes, etc.)
 
@@ -14,6 +15,7 @@ referències)
 
 ● El cicle que esteu cursant
 Desenvolupment d'aplicacions multiplataforma (DAM)
+
 ● La modalitat Dual d’estada en l’empresa
 
 ● Objectius que voleu assolir amb l’estada.
@@ -23,6 +25,7 @@ Desenvolupment d'aplicacions multiplataforma (DAM)
 ### Dades d’entitat
 ● Nom i adreça de l’entitat on esteu fent l’estada Dual.
 Stocks Piscinas S.L., Pasaje Via Trajana A, 7-9, 08020 Barcelona
+
 ● Descripció de les activitats que fa l’empresa
 
 ● Organigrama de l’entitat i ubicació del departament on esteu vosaltres.
@@ -57,8 +60,10 @@ que d’haver fet aquest període)
 
 ● Nom del tutor/a de l’institut.
 Guillermo Guerrero
+
 ● Nom del tutor/a de l’entitat i càrrec que ocupa.
 Francesc Lloreta, Director General.
+
 ● Com ha estat la comunicació amb els vostres tutors/es, tant el de l’institut, com el de
 l’entitat.
 
