@@ -14,13 +14,17 @@ nombre d’alumnes, etc.)
 superior) i les referències normatives (aquí teniu l’enllaç on trobareu les
 referències)
 
-● Motivació que us va portar a escollir:
-
-● El cicle que esteu cursant
-
 **Desenvolupment d'aplicacions multiplataforma (DAM)**
 
-● La modalitat Dual d’estada en l’empresa
+● Motivació que us va portar a escollir:
+
+
+  ● El cicle que esteu cursant
+
+
+  ● La modalitat Dual d’estada en l’empresa
+
+
 
 ● Objectius que voleu assolir amb l’estada.
 
@@ -33,7 +37,7 @@ referències)
 
 ● Descripció de les activitats que fa l’empresa
 
-
+**Stocks Piscinas S.L.és una empresa de maquinària enfocada a majoristes constructors de piscines i benestar**
 
 ● Organigrama de l’entitat i ubicació del departament on esteu vosaltres.
 
@@ -47,7 +51,7 @@ referències)
 dispositius com telèfons, etc.)
 
 
-
+**A la meva disposicio tinc un portatil HP 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz amb una llicencia Microsoft 365 Business Standard.**
 
 
 ### Dades de l’estada
