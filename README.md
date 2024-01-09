@@ -1,7 +1,8 @@
 # Diari Dual
 
 ### Presentació de l’alumne
-● Nom, cognoms, ciutat o població on residiu.
+● Nom, cognoms, ciutat o població on residiu.  
+
 **Pol González Miranda, Terrassa.**
 
 ● Breu descripció de l’institut Nicolau Copèrnic (localització, cicles que s’estan cursant,
