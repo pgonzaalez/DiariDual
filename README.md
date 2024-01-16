@@ -76,9 +76,13 @@ que d’haver fet aquest període)
 
 ● Temporització de l’estada:
 - 	 Si heu fet el període de prova, la data d’inici i de finalització d’aquest període.
+  
   **El periode de prova el vaig començar el dia 5 de Juny i el vaig finalitzar el dia 30 del mateix.**
+
 - 	 Data d'inici i de finalització de les pràctiques com a becari o contractat.
+    
   **La resta d'hores les vaig començar el dia 3 de Juliol fins avui dia encara.**
+  	 
 - 	 Dies que no vau fer pràctiques per vacances o malaltia
   **Vaig agafar vacances el mes d'agost i desde el 22 de Desembre de 2023 fins al 8 de Gener de 2024, a part vaig estar del 3 al 9 d'Octubre sense anar-hi per malaltia.**
 
