@@ -130,7 +130,15 @@ tasques:
 - d'importància i impacte amb relació al vostre aprenentatge, competències
 - adquirides, etc.
 
-**-[Desembre 2023](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Desembre.md)**
+### 2023
+
+**-[Juny](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Juny.md)**
+**-[Juliol](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Juliol.md)**
+**-[Septembre](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Septembre.md)**
+**-[Octubre](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Octubre.md)**
+**-[Novembre](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Novembre.md)**
+**-[Desembre](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Desembre.md)**
+**-[Gener](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Gener.md)**
 
 ### Problemes sorgits en fer l’estada dual
 Especifiqueu els possibles problemes sorgits en fer l’estada dual i expliqueu quins són els
