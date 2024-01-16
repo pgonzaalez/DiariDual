@@ -8,7 +8,7 @@
 ● Breu descripció de l’institut Nicolau Copèrnic (localització, cicles que s’estan cursant,
 nombre d’alumnes, etc.)
 
-
+**L'Institut Nicolau Copèrnic esta situat al barri de Can Boada a Terrassa, al centre es pot cursar desde la Educacio Secundaria Obligatoria(ESO), Batchillerat, Grau Mitja de Sistemes MicroInformatics i Xarxes i Grau Superior, aquest amb 3 opcions disponibles, DAM (Desenvolupament d'aplicacions multiplataforma), DAW(Desenvolupament d'aplicacions web), ASIX(Administrador de Sistemes i Xarxes)**
 
 ● Cicle que esteu cursant, a quina família pertany, a quin grau pertany (mitjà o
 superior) i les referències normatives (aquí teniu l’enllaç on trobareu les
@@ -63,22 +63,24 @@ contracte.
 ● Explique si heu gaudit d’algun benefici social com menjador a l’empresa, cursos
 gratuïts, gimnàs, etc.
 
-
+**No he gaudit de cap benefici social.**
 
 ● Total d’hores que vau fer en el període de les 80 - 100 hores de prova (només en cas
 que d’haver fet aquest període)
 
-
+**Al perdiode de prova vaig fer un total de 100h de practiques**
 
 ● Total d’hores fetes com a becari o contractat.
 
-
+**A dia 22 de desembre de 2023 porto 396h fetes**
 
 ● Temporització de l’estada:
 - 	 Si heu fet el període de prova, la data d’inici i de finalització d’aquest període.
+  **El periode de prova el vaig començar el dia 5 de Juny i el vaig finalitzar el dia 30 del mateix.**
 - 	 Data d'inici i de finalització de les pràctiques com a becari o contractat.
+  **La resta d'hores les vaig començar el dia 3 de Juliol fins avui dia encara.**
 - 	 Dies que no vau fer pràctiques per vacances o malaltia
-
+  **Vaig agafar vacances el mes d'agost i desde el 22 de Desembre de 2023 fins al 8 de Gener de 2024, a part vaig estar del 3 al 9 d'Octubre sense anar-hi per malaltia.**
 
 
 ### Relacions professionals i seguiment de l’estada
