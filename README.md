@@ -132,19 +132,19 @@ tasques:
 
 ### 2023
 
-**-[Juny](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Juny.md)**
+**[Juny](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Juny.md)**
 
-**-[Juliol](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Juliol.md)**
+**[Juliol](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Juliol.md)**
 
-**-[Septembre](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Septembre.md)**
+**[Septembre](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Septembre.md)**
 
-**-[Octubre](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Octubre.md)**
+**[Octubre](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Octubre.md)**
 
-**-[Novembre](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Novembre.md)**
+**[Novembre](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Novembre.md)**
 
-**-[Desembre](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Desembre.md)**
+**[Desembre](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Desembre.md)**
 
-**-[Gener](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Gener.md)**
+**[Gener](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Gener.md)**
 
 
 ### Problemes sorgits en fer l’estada dual
