@@ -130,9 +130,9 @@ tasques:
 - d'importància i impacte amb relació al vostre aprenentatge, competències
 - adquirides, etc.
 
-### 2023                                                                            ### 2024
+### 2023                                                                           
 
-**[Juny](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Juny.md)**                                                                            **[Gener](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Gener.md)**
+**[Juny](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Juny.md)**
 
 **[Juliol](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Juliol.md)**
 
@@ -144,7 +144,9 @@ tasques:
 
 **[Desembre](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Desembre.md)**
 
+ ### 2024
 
+**[Gener](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Gener.md)**
 
 
 
