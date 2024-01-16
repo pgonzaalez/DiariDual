@@ -130,7 +130,7 @@ tasques:
 - d'importància i impacte amb relació al vostre aprenentatge, competències
 - adquirides, etc.
 
-
+**[-Desembre 2023 ](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Desembre.md)**
 
 ### Problemes sorgits en fer l’estada dual
 Especifiqueu els possibles problemes sorgits en fer l’estada dual i expliqueu quins són els
