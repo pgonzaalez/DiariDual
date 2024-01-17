@@ -17,6 +17,7 @@ Coneixements aplicats apresos en l’institut:
 
 
 Coneixements aplicats apresos en l’entitat:
+
 **L'utilització del programari i les seves funcionalitats**
 
 ****
