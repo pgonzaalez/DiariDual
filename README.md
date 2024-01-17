@@ -14,20 +14,21 @@ nombre d’alumnes, etc.)
 superior) i les referències normatives (aquí teniu l’enllaç on trobareu les
 referències)
 
-**Desenvolupment d'aplicacions multiplataforma (DAM)**
+**Desenvolupment d'aplicacions multiplataforma (DAM), es un Grau Superior de la familia de la Informàtica.**
 
 ● Motivació que us va portar a escollir:
 
-
   ● El cicle que esteu cursant
 
+  **Desde petit m'ha agradat el món dels videojocs, sempre volia saber com els feien, a mesura que he crescut m'ha interesat més la programació**
 
   ● La modalitat Dual d’estada en l’empresa
 
-
+  **Crec que es una bona oportunitat per guanyar experiencia laboral, més de la que posiblement guanyes en les FCT, degut a la llarga duració de la modalitat DUAL.**
 
 ● Objectius que voleu assolir amb l’estada.
 
+**En aquesta modalitat m'agradaria coneixer més el món laboral, guanyar experiencia per un futur, aprendre nous mètodes i programes**
 
 
 ### Dades d’entitat
@@ -51,7 +52,7 @@ referències)
 dispositius com telèfons, etc.)
 
 
-**A la meva disposicio tinc un portatil HP 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz amb una llicencia Microsoft 365 Business Standard.**
+**L'empresa compta amb una nau la cual es un magatzem amb oficines a la part superior. A la meva disposicio tinc un portatil HP 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz amb una llicencia Microsoft 365 Business Standard.**
 
 
 ### Dades de l’estada
