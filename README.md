@@ -18,13 +18,13 @@ referències)
 
 ● Motivació que us va portar a escollir:
 
-    ● El cicle que esteu cursant
+ ● El cicle que esteu cursant
 
-    **Desde petit m'ha agradat el món dels videojocs, sempre volia saber com els feien, a mesura que he crescut m'ha interesat més la programació**
+ **Desde petit m'ha agradat el món dels videojocs, sempre volia saber com els feien, a mesura que he crescut m'ha interesat més la programació**
 
-    ● La modalitat Dual d’estada en l’empresa
+ ● La modalitat Dual d’estada en l’empresa
 
-    **Crec que es una bona oportunitat per guanyar experiencia laboral, més de la que posiblement guanyes en les FCT, degut a la llarga duració de la modalitat DUAL.**
+  **Crec que es una bona oportunitat per guanyar experiencia laboral, més de la que posiblement guanyes en les FCT, degut a la llarga duració de la modalitat DUAL.**
 
 ● Objectius que voleu assolir amb l’estada.
 
