@@ -1,1 +1,1 @@
-Productes Leroy, Amazon, comparativa 
+Productes Leroy, comparativa 
