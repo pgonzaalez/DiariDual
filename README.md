@@ -73,7 +73,7 @@ que d’haver fet aquest període)
 
 ● Total d’hores fetes com a becari o contractat.
 
-**A dia 22 de desembre de 2023 porto 396h fetes**
+**A dia 15 d'abril de 2024 porto 789,5h fetes**
 
 ● Temporització de l’estada:
 - 	 Si heu fet el període de prova, la data d’inici i de finalització d’aquest període.
