@@ -85,7 +85,7 @@ que d’haver fet aquest període)
   **La resta d'hores les vaig començar el dia 3 de Juliol fins avui dia encara.**
   	 
 - 	 Dies que no vau fer pràctiques per vacances o malaltia
-  **Vaig agafar vacances el mes d'agost i desde el 22 de Desembre de 2023 fins al 8 de Gener de 2024, a part vaig estar del 3 al 9 d'Octubre sense anar-hi per malaltia.**
+  **Vaig agafar vacances el mes d'agost, desde el 22 de Desembre de 2023 fins al 8 de Gener de 2024 i desde el 8 fins al 15 de Maig, a part vaig estar del 3 al 9 d'Octubre sense anar-hi per malaltia.**
 
 
 ### Relacions professionals i seguiment de l’estada
@@ -148,6 +148,17 @@ tasques:
  ### 2024
 
 **[Gener](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Gener.md)**
+
+**[Febrer](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Febrer.md)**
+
+**[Març](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Març.md)**
+
+**[Abril](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Abril.md)**
+
+**[Maig](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Maig.md)**
+
+**[Juny](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Juny.md)**
+
 
 
 
