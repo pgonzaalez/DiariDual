@@ -73,7 +73,7 @@ que d’haver fet aquest període)
 
 ● Total d’hores fetes com a becari o contractat.
 
-**A dia 15 d'abril de 2024 porto 789,5h fetes**
+**He fet un total de 800 hores**
 
 ● Temporització de l’estada:
 - 	 Si heu fet el període de prova, la data d’inici i de finalització d’aquest període.
@@ -85,7 +85,7 @@ que d’haver fet aquest període)
   **La resta d'hores les vaig començar el dia 3 de Juliol fins avui dia encara.**
   	 
 - 	 Dies que no vau fer pràctiques per vacances o malaltia
-  **Vaig agafar vacances el mes d'agost, desde el 22 de Desembre de 2023 fins al 8 de Gener de 2024 i desde el 8 fins al 15 de Maig, a part vaig estar del 3 al 9 d'Octubre sense anar-hi per malaltia.**
+  **Vaig agafar vacances el mes d'agost, desde el 22 de Desembre de 2023 fins al 8 de Gener de 2024 i desde el 8 fins al 15 de Maig, a part vaig estar del 3 al 9 d'Octubre sense anar-hi per malaltia. Del 8 al 15 de maig vaig fer vacances**
 
 
 ### Relacions professionals i seguiment de l’estada
@@ -157,7 +157,6 @@ tasques:
 
 **[Maig](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Maig.md)**
 
-**[Juny](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Juny.md)**
 
 
 
