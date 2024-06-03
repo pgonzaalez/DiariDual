@@ -1,1 +1,0 @@
-Productes Leroy, comparativa 
