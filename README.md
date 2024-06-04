@@ -42,11 +42,11 @@ referències)
 
 ● Organigrama de l’entitat i ubicació del departament on esteu vosaltres.
 
-
+![](https://i.gyazo.com/2cc6f19d45d2f6ad1eb08897664b616d.jpg){width='100px'}
 
 ● Descripció del departament on esteu.
 
-
+![](https://i.gyazo.com/abc7d4c05c37ea60aa584d2dbbea3223.jpg){width='100px'}
 
 ● Infraestructura de l’entitat i eines a la vostra disposició (ordinadors, programari, altres
 dispositius com telèfons, etc.)
