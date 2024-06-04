@@ -1,3 +1,5 @@
+# Febrer 2024
+
 Descripció de la tasca:
 
 **Manteniment diari dels Marketplace, així com actualització de preus, comparació amb la resta de competidors o modificació de productes.**
