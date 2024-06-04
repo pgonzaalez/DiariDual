@@ -2,7 +2,7 @@
 
 Descripció de la tasca: 
 
-**Continuitat amb l'importació de productes a Amazon i començo amb la pagina web de l'empresa a pujar productes**
+**Continuitat amb l'importació de productes a Amazon i començo amb el marketplace de la pagina web de l'empresa a pujar productes**
 
 Coneixements aplicats apresos en l’institut:
 
