@@ -20,8 +20,8 @@ Utilidad de los conocimientos adquiridos en el instituto:
 
 Grado de importancia e impacto dentro de la entidad:
 
-** Gran importancia e impacto, ya que esto hace que todos los productos estén al día y las ventas mejoren. **
+**Gran importancia e impacto, ya que esto hace que todos los productos estén al día y las ventas mejoren.**
 
 Grado de importancia e impacto con relación a vuestro aprendizaje:
 
-** Poca importancia e impacto en el aprendizaje, ya que es muy monótono y los conocimientos aplicados son muy básicos. **
+**Poca importancia e impacto en el aprendizaje, ya que es muy monótono y los conocimientos aplicados son muy básicos.**
