@@ -1,29 +1,29 @@
 # Abril 2024
 
-Descripción de la tarea:
+Descripció de la tasca:
 
-**Mantenimiento diario de los Marketplace, así como actualización de precios, comparación con el resto de competidores o modificación de productos.**
+**Manteniment diari dels Marketplace, així com actualització de preus, comparació amb la resta de competidors o modificació de productes.**
 
-Conocimientos aplicados aprendidos en el instituto:
+Coneixements aplicats apresos a l’institut:
 
-**Ningún conocimiento adquirido en el instituto se ha utilizado en esta tarea.**
+**Cap coneixement adquirit a l’institut s’ha utilitzat en aquesta tasca.**
 
-Conocimientos aplicados aprendidos en la entidad:
+Coneixements aplicats apresos a l’entitat:
 
-**Uso de los Marketplace y conocimiento del mercado.**
+**Ús dels Marketplace i coneixement del mercat.**
 
-Diferencias respecto a conocimientos del instituto:
+Diferències respecte als coneixements de l’institut:
 
-**A diferencia de los conocimientos adquiridos en el instituto, se utilizan conocimientos más relacionados con la administración de la empresa.**
+**A diferència dels coneixements adquirits a l’institut, s’utilitzen coneixements més relacionats amb l’administració de l’empresa.**
 
-Utilidad de los conocimientos adquiridos en el instituto:
+Utilitat dels coneixements adquirits a l’institut:
 
-**En esta tarea no se han tenido que aplicar.**
+**En aquesta tasca no s’han hagut d’aplicar.**
 
-Grado de importancia e impacto dentro de la entidad:
+Grau d’importància i impacte dins de l’entitat:
 
-**Gran importancia e impacto, ya que esto hace que todos los productos estén al día y las ventas mejoren.**
+**Gran importància i impacte, ja que això fa que tots els productes estiguin al dia i les vendes millorin.**
 
-Grado de importancia e impacto con relación a vuestro aprendizaje:
+Grau d’importància i impacte en relació al vostre aprenentatge:
 
-**Poca importancia e impacto en el aprendizaje, ya que es muy monótono y los conocimientos aplicados son muy básicos.**
+**Poca importància i impacte en l’aprenentatge, ja que és molt monòton i els coneixements aplicats són molt bàsics.**
