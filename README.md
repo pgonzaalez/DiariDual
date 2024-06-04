@@ -86,10 +86,10 @@ que d’haver fet aquest període)
 
 - 	 Data d'inici i de finalització de les pràctiques com a becari o contractat.
     
-  **La resta d'hores les vaig començar el dia 3 de Juliol fins avui dia encara.**
+  **La resta d'hores les vaig començar el dia 3 de Juliol fins el dia 23 de maig**
   	 
 - 	 Dies que no vau fer pràctiques per vacances o malaltia
-- 	 
+   
   **Vaig agafar vacances el mes d'agost, desde el 22 de Desembre de 2023 fins al 8 de Gener de 2024 i desde el 8 fins al 15 de Maig, a part vaig estar del 3 al 9 d'Octubre sense anar-hi per malaltia. Del 8 al 15 de maig vaig fer vacances**
 
 
