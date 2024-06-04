@@ -171,11 +171,11 @@ tasques:
 Especifiqueu els possibles problemes sorgits en fer l’estada dual i expliqueu quins són els
 procediments seguits per resoldre cadascun d’aquests problemes.
 
-** Durant els primers mesos, vaig tenir diversos problemes amb el salari. Vaig parlar amb el coordinador de DUAL de l'institut per solucionar el problema i ràpidament es va corregir immediatament. **
+**Durant els primers mesos, vaig tenir diversos problemes amb el salari. Vaig parlar amb el coordinador de DUAL de l'institut per solucionar el problema i ràpidament es va corregir immediatament.**
 
 ### Valoració personal de l’estada Dual
 En aquest apartat heu de valorar l’experiència personal de la vostra estada Dual.
 
-** Crec que ha estat una bona experiència, tot i que les tasques realitzades no eren iguals que el contingut donat a l'institut. He pogut reforçar diverses altres habilitats. Sí que m'hauria agradat fer alguna cosa més relacionada amb el sector de la programació. En definitiva, crec que ha sigut una bona experiència. **
+**Crec que ha estat una bona experiència, tot i que les tasques realitzades no eren iguals que el contingut donat a l'institut. He pogut reforçar diverses altres habilitats. Sí que m'hauria agradat fer alguna cosa més relacionada amb el sector de la programació. En definitiva, crec que ha sigut una bona experiència.**
 
 
