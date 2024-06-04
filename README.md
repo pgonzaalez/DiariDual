@@ -42,7 +42,8 @@ referències)
 
 ● Organigrama de l’entitat i ubicació del departament on esteu vosaltres.
 
-**Aquesta es la part superior de la nau on son les oficines, al final de la sala hi ha la sala de reunions.**
+**L'organigrama de l'empresa es: Un director general, un departament administratiu, un departament comercial i el departament del magatzem. 
+Aquesta es la part superior de la nau on son les oficines, al final de la sala hi ha la sala de reunions.**
 
 ![](https://i.gyazo.com/2cc6f19d45d2f6ad1eb08897664b616d.jpg)
 
