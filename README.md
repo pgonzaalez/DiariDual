@@ -42,9 +42,13 @@ referències)
 
 ● Organigrama de l’entitat i ubicació del departament on esteu vosaltres.
 
+**Aquesta es la part superior de la nau on son les oficines, al final de la sala hi ha la sala de reunions. **
+
 ![](https://i.gyazo.com/2cc6f19d45d2f6ad1eb08897664b616d.jpg)
 
 ● Descripció del departament on esteu.
+
+**Aquest es el lloc on estaba jo, es la sala de reunions de l'empresa, estaba aqui ja que per la contratació d'un nou integrant no hi habia lloc a les taules de fora de la sala i em vaig haver de traslladar a aquesta sala**
 
 ![](https://i.gyazo.com/abc7d4c05c37ea60aa584d2dbbea3223.jpg)
 
@@ -59,7 +63,7 @@ dispositius com telèfons, etc.)
 ● Especifiqueu si sóu becaris o contractats i expliqueu en què consisteix la vostra beca o
 contracte.
 
-** En el meu cas, era contractat a través d'un contracte de formació dual. Aquest contracte consistia en realitzar un total de 900 hores de formació pràctica a l'empresa. La remuneració per aquest contracte era del 60% del Salari Mínim Interprofessional (SMI). **
+**En el meu cas, era contractat a través d'un contracte de formació dual. Aquest contracte consistia en realitzar un total de 900 hores de formació pràctica a l'empresa. La remuneració per aquest contracte era del 60% del Salari Mínim Interprofessional (SMI).**
 
 ● Explique si heu gaudit d’algun benefici social com menjador a l’empresa, cursos
 gratuïts, gimnàs, etc.
@@ -85,6 +89,7 @@ que d’haver fet aquest període)
   **La resta d'hores les vaig començar el dia 3 de Juliol fins avui dia encara.**
   	 
 - 	 Dies que no vau fer pràctiques per vacances o malaltia
+- 	 
   **Vaig agafar vacances el mes d'agost, desde el 22 de Desembre de 2023 fins al 8 de Gener de 2024 i desde el 8 fins al 15 de Maig, a part vaig estar del 3 al 9 d'Octubre sense anar-hi per malaltia. Del 8 al 15 de maig vaig fer vacances**
 
 
@@ -101,16 +106,16 @@ que d’haver fet aquest període)
 ● Com ha estat la comunicació amb els vostres tutors/es, tant el de l’institut, com el de
 l’entitat.
 
-
+**Crec que ha estat una bona comunicacio per les dues parts, tant per part de l'instutut com de l'empresa.**
 
 ● Com ha estat la comunicació amb la resta de companys/es de l’entitat i usuaris
 (clients).
 
-
+**Amb els companys i/o clients ha estat una bona comunicació al igual que amb l'empresa en general.**
 
 ● Valoració del seguiment de la doble tutoria (entitat-institut)
 
-
+**Ha estat una bon seguiment per les dues parts, sempre que he tingut algun dubte o problema han fete tot el posible per resoldre'l.**
 
 
 ### Diari de pràctiques
