@@ -10,8 +10,6 @@ Coneixements aplicats apresos en l’institut:
 
 Coneixements aplicats apresos en l’entitat:
 
-**L'utilització del programari i les seves funcionalitats**
-
 **Us del marketplace d'Amazon i Prestashop per l'importació**
 
 Diferencias respecto a conocimientos del instituto:
