@@ -1,143 +1,23 @@
 # Diari Dual
 
-### Presentació de l’alumne
-● Nom, cognoms, ciutat o població on residiu.  
+Em dic Pol González Miranda i visc a Terrassa. Estic cursant el cicle formatiu de Desenvolupament d'Aplicacions Multiplataforma (DAM) a l'Institut Nicolau Copèrnic, situat al barri de Can Boada de Terrassa. Aquest centre ofereix Educació Secundària Obligatòria (ESO), Batxillerat, Grau Mitjà de Sistemes Microinformàtics i Xarxes, i tres opcions de Grau Superior: DAM (Desenvolupament d'aplicacions multiplataforma), DAW (Desenvolupament d'aplicacions web) i ASIX (Administrador de Sistemes i Xarxes).
 
-**Pol González Miranda, Terrassa.**
+Vaig escollir el cicle de DAM perquè des de petit m'ha interessat el món dels videojocs i sempre he volgut saber com es fan. A mesura que he crescut, m'ha interessat més la programació. La modalitat Dual em va semblar una bona oportunitat per guanyar experiència laboral, més de la que probablement s'obté amb les FCT, degut a la seva major duració. Amb aquesta estada espero conèixer més el món laboral, guanyar experiència per al futur i aprendre nous mètodes i programes.
 
-● Breu descripció de l’institut Nicolau Copèrnic (localització, cicles que s’estan cursant,
-nombre d’alumnes, etc.)
-
-**L'Institut Nicolau Copèrnic esta situat al barri de Can Boada a Terrassa, al centre es pot cursar desde la Educacio Secundaria Obligatoria(ESO), Batchillerat, Grau Mitja de Sistemes MicroInformatics i Xarxes i Grau Superior, aquest amb 3 opcions disponibles, DAM (Desenvolupament d'aplicacions multiplataforma), DAW(Desenvolupament d'aplicacions web), ASIX(Administrador de Sistemes i Xarxes)**
-
-● Cicle que esteu cursant, a quina família pertany, a quin grau pertany (mitjà o
-superior) i les referències normatives (aquí teniu l’enllaç on trobareu les
-referències)
-
-**Desenvolupment d'aplicacions multiplataforma (DAM), es un Grau Superior de la familia de la Informàtica.**
-
-● Motivació que us va portar a escollir:
-
- ● El cicle que esteu cursant
-
- **Desde petit m'ha agradat el món dels videojocs, sempre volia saber com els feien, a mesura que he crescut m'ha interesat més la programació**
-
- ● La modalitat Dual d’estada en l’empresa
-
-  **Crec que es una bona oportunitat per guanyar experiencia laboral, més de la que posiblement guanyes en les FCT, degut a la llarga duració de la modalitat DUAL.**
-
-● Objectius que voleu assolir amb l’estada.
-
-**En aquesta modalitat m'agradaria coneixer més el món laboral, guanyar experiencia per un futur, aprendre nous mètodes i programes**
-
-
-### Dades d’entitat
-● Nom i adreça de l’entitat on esteu fent l’estada Dual.
-
-**Stocks Piscinas S.L., Pasaje Via Trajana A, 7-9, 08020 Barcelona**
-
-● Descripció de les activitats que fa l’empresa
-
-**Stocks Piscinas S.L.és una empresa de maquinària enfocada a majoristes constructors de piscines i benestar**
-
-● Organigrama de l’entitat i ubicació del departament on esteu vosaltres.
-
-**L'organigrama de l'empresa es: Un director general, un departament administratiu, un departament comercial i el departament del magatzem.**
-
-**Aquesta es la part superior de la nau on son les oficines, al final de la sala hi ha la sala de reunions.**
-
+Estic realitzant l'estada Dual a l'empresa Stocks Piscinas S.L., situada al Pasaje Via Trajana A, 7-9, 08020 Barcelona. Aquesta empresa es dedica a la venda de maquinària enfocada a majoristes constructors de piscines i benestar. L'organigrama de l'empresa inclou un director general, un departament administratiu, un departament comercial i el departament del magatzem. Jo estic ubicat a la sala de reunions de l'empresa, ja que per la contractació d'un nou integrant no hi havia lloc a les taules de fora de la sala. La infraestructura de l'empresa inclou una nau que és un magatzem amb oficines a la part superior. A la meva disposició tinc un portàtil HP 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz amb una llicència Microsoft 365 Business Standard.
 ![](https://i.gyazo.com/2cc6f19d45d2f6ad1eb08897664b616d.jpg)
-
-● Descripció del departament on esteu.
-
-**Aquest es el lloc on estaba jo, es la sala de reunions de l'empresa, estaba aqui ja que per la contratació d'un nou integrant no hi habia lloc a les taules de fora de la sala i em vaig haver de traslladar a aquesta sala**
-
 ![](https://i.gyazo.com/abc7d4c05c37ea60aa584d2dbbea3223.jpg)
 
-● Infraestructura de l’entitat i eines a la vostra disposició (ordinadors, programari, altres
-dispositius com telèfons, etc.)
+En el meu cas, estic contractat a través d'un contracte de formació dual, que consisteix en realitzar un total de 900 hores de formació pràctica a l'empresa amb una remuneració del 60% del Salari Mínim Interprofessional (SMI). No he gaudit de cap benefici social durant la meva estada. Durant el període de prova, que va ser del 5 al 30 de juny, vaig fer un total de 100 hores de pràctiques. Com a contractat, he fet un total de 800 hores des del 3 de juliol fins al 23 de maig. Vaig agafar vacances durant el mes d'agost, del 22 de desembre de 2023 al 8 de gener de 2024, i del 8 al 15 de maig. A més, vaig estar del 3 al 9 d'octubre sense anar-hi per malaltia.
+
+El meu tutor a l'institut és en Guillermo Guerrero, mentre que el meu tutor a l'entitat és en Francesc Lloreta, el director general. La comunicació amb els meus tutors ha estat bona per ambdues parts, i també he mantingut una bona comunicació amb els companys i clients de l'entitat. Considero que el seguiment de la doble tutoria (entitat-institut) ha estat satisfactori, ja que sempre que he tingut algun dubte o problema, s'ha fet tot el possible per resoldre'l.
+
+Durant l'estada, he tingut alguns problemes amb el salari durant els primers mesos. Vaig parlar amb el coordinador de DUAL de l'institut per solucionar-ho i es va corregir ràpidament. En general, valoro aquesta experiència de manera positiva. Tot i que les tasques realitzades no eren exactament les mateixes que el contingut donat a l'institut, he pogut reforçar altres habilitats. M'hauria agradat fer alguna cosa més relacionada amb el sector de la programació, però en definitiva, crec que ha estat una bona experiència.
 
 
-**L'empresa compta amb una nau la cual es un magatzem amb oficines a la part superior. A la meva disposicio tinc un portatil HP 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz amb una llicencia Microsoft 365 Business Standard.**
-
-
-### Dades de l’estada
-● Especifiqueu si sóu becaris o contractats i expliqueu en què consisteix la vostra beca o
-contracte.
-
-**En el meu cas, era contractat a través d'un contracte de formació dual. Aquest contracte consistia en realitzar un total de 900 hores de formació pràctica a l'empresa. La remuneració per aquest contracte era del 60% del Salari Mínim Interprofessional (SMI).**
-
-● Explique si heu gaudit d’algun benefici social com menjador a l’empresa, cursos
-gratuïts, gimnàs, etc.
-
-**No he gaudit de cap benefici social.**
-
-● Total d’hores que vau fer en el període de les 80 - 100 hores de prova (només en cas
-que d’haver fet aquest període)
-
-**Al perdiode de prova vaig fer un total de 100h de practiques**
-
-● Total d’hores fetes com a becari o contractat.
-
-**He fet un total de 800 hores**
-
-● Temporització de l’estada:
-- 	 Si heu fet el període de prova, la data d’inici i de finalització d’aquest període.
-  
-  **El periode de prova el vaig començar el dia 5 de Juny i el vaig finalitzar el dia 30 del mateix.**
-
-- 	 Data d'inici i de finalització de les pràctiques com a becari o contractat.
-    
-  **La resta d'hores les vaig començar el dia 3 de Juliol fins el dia 23 de maig**
-  	 
-- 	 Dies que no vau fer pràctiques per vacances o malaltia
-   
-  **Vaig agafar vacances el mes d'agost, desde el 22 de Desembre de 2023 fins al 8 de Gener de 2024 i desde el 8 fins al 15 de Maig, a part vaig estar del 3 al 9 d'Octubre sense anar-hi per malaltia. Del 8 al 15 de maig vaig fer vacances**
-
-
-### Relacions professionals i seguiment de l’estada
-
-● Nom del tutor/a de l’institut.
-
-**Guillermo Guerrero**
-
-● Nom del tutor/a de l’entitat i càrrec que ocupa.
-
-**Francesc Lloreta, Director General.**
-
-● Com ha estat la comunicació amb els vostres tutors/es, tant el de l’institut, com el de
-l’entitat.
-
-**Crec que ha estat una bona comunicacio per les dues parts, tant per part de l'instutut com de l'empresa.**
-
-● Com ha estat la comunicació amb la resta de companys/es de l’entitat i usuaris
-(clients).
-
-**Amb els companys i/o clients ha estat una bona comunicació al igual que amb l'empresa en general.**
-
-● Valoració del seguiment de la doble tutoria (entitat-institut)
-
-**Ha estat una bon seguiment per les dues parts, sempre que he tingut algun dubte o problema han fete tot el posible per resoldre'l.**
 
 
 ### Diari de pràctiques
-● Heu de desenvolupar un diari de les vostres pràctiques tant del període de prova, si és
-el cas, com del període de becari o contractat, on especifiqueu per cadascuna de les
-tasques:
--  Des d’un punt de vista tècnic: Descripció de la tasca, coneixements aplicats
-- apresos en l’institut, coneixements aplicats apresos en l’entitat, durada de la
-- tasca (temporització) i persones implicades.
--  Fent aquesta tasca, quins coneixements diferents dels apresos en l’Institut heu
-- adquirit, tant pel que fa a qüestions tècniques com maneres de treballar.
--  El grau d’utilitat dels coneixements adquirits en l’institut en el desenvolupament
-- de la tasca, tant pel que fa a qüestions tècniques com maneres de treballar.
--  Relació de la tasca amb les activitats del pla d’activitats del vostre cicle (són les
-- activitats a les quals assigneu hores diàriament en la plataforma BID) i justifica
-- la relació.
--  Valoració de la tasca: Grau d’importància i impacte dins l’entitat, grau
-- d'importància i impacte amb relació al vostre aprenentatge, competències
-- adquirides, etc.
-
 ### 2023                                                                           
 
 **[Juny](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Juny.md)**
@@ -163,21 +43,4 @@ tasques:
 **[Abril](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Abril.md)**
 
 **[Maig](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Maig.md)**
-
-
-
-
-
-
-### Problemes sorgits en fer l’estada dual
-Especifiqueu els possibles problemes sorgits en fer l’estada dual i expliqueu quins són els
-procediments seguits per resoldre cadascun d’aquests problemes.
-
-**Durant els primers mesos, vaig tenir diversos problemes amb el salari. Vaig parlar amb el coordinador de DUAL de l'institut per solucionar el problema i ràpidament es va corregir immediatament.**
-
-### Valoració personal de l’estada Dual
-En aquest apartat heu de valorar l’experiència personal de la vostra estada Dual.
-
-**Crec que ha estat una bona experiència, tot i que les tasques realitzades no eren iguals que el contingut donat a l'institut. He pogut reforçar diverses altres habilitats. Sí que m'hauria agradat fer alguna cosa més relacionada amb el sector de la programació. En definitiva, crec que ha sigut una bona experiència.**
-
 
