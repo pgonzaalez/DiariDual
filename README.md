@@ -28,7 +28,7 @@ Durant l'estada, he tingut alguns problemes amb el salari durant els primers mes
 
 **[Octubre](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/2023-Octubre.md)**
 
-**[Novembre](hhttps://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/2023-Novembre.md)**
+**[Novembre](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/2023-Novembre.md)**
 
 **[Desembre](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/2023-Desembre.md)**
 
