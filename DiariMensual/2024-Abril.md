@@ -1,29 +1,11 @@
 # Abril 2024
 
-Descripció de la tasca:
+Durant el mes d'abril de 2024, vaig realitzar tasques de manteniment diari dels marketplaces, així com actualització de preus, comparació amb la resta de competidors i modificació de productes.
 
-**Manteniment diari dels Marketplace, així com actualització de preus, comparació amb la resta de competidors o modificació de productes.**
+En aquesta tasca, no vaig utilitzar cap dels coneixements adquirits a l'institut. Els coneixements aplicats van ser apresos a l'entitat, incloent l'ús dels marketplaces i el coneixement del mercat.
 
-Coneixements aplicats apresos a l’institut:
+A diferència dels coneixements adquirits a l'institut, en aquesta tasca es van utilitzar coneixements més relacionats amb l'administració de l'empresa. Els coneixements adquirits a l'institut no van ser necessaris en aquesta tasca específica.
 
-**Cap coneixement adquirit a l’institut s’ha utilitzat en aquesta tasca.**
+Pel que fa al grau d'importància i impacte dins de l'entitat, aquesta tasca té una gran importància i impacte, ja que assegura que tots els productes estiguin al dia i que les vendes millorin.
 
-Coneixements aplicats apresos a l’entitat:
-
-**Ús dels Marketplace i coneixement del mercat.**
-
-Diferències respecte als coneixements de l’institut:
-
-**A diferència dels coneixements adquirits a l’institut, s’utilitzen coneixements més relacionats amb l’administració de l’empresa.**
-
-Utilitat dels coneixements adquirits a l’institut:
-
-**En aquesta tasca no s’han hagut d’aplicar.**
-
-Grau d’importància i impacte dins de l’entitat:
-
-**Gran importància i impacte, ja que això fa que tots els productes estiguin al dia i les vendes millorin.**
-
-Grau d’importància i impacte en relació al vostre aprenentatge:
-
-**Poca importància i impacte en l’aprenentatge, ja que és molt monòton i els coneixements aplicats són molt bàsics.**
+Respecte al grau d'importància i impacte en el meu aprenentatge, aquesta tasca va tenir poca importància i impacte, ja que era molt monòtona i els coneixements aplicats eren molt bàsics.
