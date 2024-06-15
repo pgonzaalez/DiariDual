@@ -1,30 +1,12 @@
 # Gener 2024
 
-Descripció de la tasca: 
+Durant el mes de gener de 2024, vaig realitzar una tasca d'actualització de tarifes i preus dels productes al ERP, basant-me en un Excel del proveïdor amb els nous preus i tarifes.
 
-**Actualització tarifes i preus dels productes al ERP en base a un Excel del proveïdor amb els nous preus i tarifes**
+En aquesta tasca, no vaig utilitzar cap dels coneixements adquirits a l'institut. Els coneixements aplicats van ser apresos a l'entitat, incloent l'ús del programari i les seves funcionalitats, en aquest cas, l'ERP DAF.
 
-Coneixements aplicats apresos en l’institut:
+A diferència dels coneixements adquirits a l'institut, en aquesta tasca es van utilitzar coneixements més relacionats amb l'administració de l'empresa. Els coneixements adquirits a l'institut no van ser necessaris en aquesta tasca específica.
 
-**Cap coneixement adquirit a l’institut s’ha utilitzat en aquesta tasca.**
+Pel que fa al grau d'importància i impacte dins de l'entitat, aquesta tasca té una gran importància i impacte, ja que assegura que tots els productes tinguin el preu correcte amb la tarifa d'aquest any i evita pèrdues si algun producte ha variat bastant el preu.
 
-Coneixements aplicats apresos en l’entitat:
-
-**L'utilització del programari i les seves funcionalitats, en aquest cas vaig utilitzar l'ERP DAF**
-
-Diferencias respecto a conocimientos del instituto:
-
-**A diferència dels coneixements adquirits a l’institut, s’utilitzen coneixements més relacionats amb l’administració de l’empresa.**
-
-Utilitat dels coneixements adquirits en l’institut:
-
-**En aquesta tasca no s’han hagut d’aplicar.**
-
-Grau d’importància i impacte dins l’entitat:
-
-**Gran importància i impacte, ja que aixo fa que tots els productes tinguin el preu correcte amb la tarifa d'aquest any i no perdre diners si al gun producte ha variat bastant el preu**
-
-Grau d'importància i impacte amb relació al vostre aprenentatge:
-
-**Poca importància i impacte en l’aprenentatge, ja que és molt monòton i els coneixements aplicats són molt bàsics.**
+Respecte al grau d'importància i impacte en el meu aprenentatge, aquesta tasca va tenir poca importància i impacte, ja que era molt monòtona i els coneixements aplicats eren molt bàsics.
 
