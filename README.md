@@ -20,27 +20,27 @@ Durant l'estada, he tingut alguns problemes amb el salari durant els primers mes
 ### Diari de pràctiques
 ### 2023                                                                           
 
-**[Juny](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Juny.md)**
+**[Juny](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/2023-Juny.md)**
 
-**[Juliol](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Juliol.md)**
+**[Juliol](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/2023-Juliol.md)**
 
-**[Septembre](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Septembre.md)**
+**[Septembre](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/2023-Septembre.md)**
 
-**[Octubre](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Octubre.md)**
+**[Octubre](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/2023-Octubre.md)**
 
-**[Novembre](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Novembre.md)**
+**[Novembre](hhttps://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/2023-Novembre.md)**
 
-**[Desembre](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Desembre.md)**
+**[Desembre](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/2023-Desembre.md)**
 
  ### 2024
 
-**[Gener](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Gener.md)**
+**[Gener](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/2024-Gener.md)**
 
-**[Febrer](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Febrer.md)**
+**[Febrer](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/2024-Febrer.md)**
 
-**[Març](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Març.md)**
+**[Març](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/2024-Mar%C3%A7.md)**
 
-**[Abril](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Abril.md)**
+**[Abril](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/2024-Abril.md)**
 
-**[Maig](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/Maig.md)**
+**[Maig](https://github.com/pgonzaalez/DiariDual/blob/main/DiariMensual/2024-Maig.md)**
 
