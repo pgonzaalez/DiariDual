@@ -1,29 +1,11 @@
 # Octubre 2023
 
-Descripció de la tasca: 
+Durant el mes d'octubre de 2023, vaig iniciar la tasca d'importació de productes al marketplace de Leroy Merlin.
 
-**Inici de l'importació de productes al marketplace de Leroy Merlin**
+En aquesta tasca, no vaig utilitzar cap dels coneixements adquirits a l'institut. Els coneixements aplicats van ser apresos a l'entitat, incloent l'ús del marketplace Mirakl per a la importació de productes.
 
-Coneixements aplicats apresos en l’institut:
+A diferència dels coneixements adquirits a l'institut, en aquesta tasca es van utilitzar coneixements més relacionats amb l'estudi del mercat per tenir preus competitius. Els coneixements adquirits a l'institut no van ser necessaris en aquesta tasca específica.
 
-**Cap coneixement adquirit a l’institut s’ha utilitzat en aquesta tasca.**
+Pel que fa al grau d'importància i impacte dins l'entitat, aquesta tasca és de gran importància i té un gran impacte, ja que contribueix a incrementar les vendes online.
 
-Coneixements aplicats apresos en l’entitat:
-
-**Us del marketplace Mirakl per l'importació**
-
-Diferencias respecto a conocimientos del instituto:
-
-**A diferència dels coneixements adquirits a l’institut, s’utilitzen coneixements més relacionats amb l'estudi del mercat per tenir preus competitius.**
-
-Utilitat dels coneixements adquirits en l’institut:
-
-**En aquesta tasca no s’han hagut d’aplicar.**
-
-Grau d’importància i impacte dins l’entitat:
-
-**Aquesta tasca es de gran importancia i amb un gran impacte ja que fa que incrementin les ventes online**
-
-Grau d'importància i impacte amb relació al vostre aprenentatge:
-
-**Poca importància i impacte en l’aprenentatge, ja que és molt monòton i els coneixements aplicats són molt bàsics.**
+Respecte al grau d'importància i impacte en el meu aprenentatge, aquesta tasca va tenir poca importància i impacte, ja que era molt monòtona i els coneixements aplicats eren molt bàsics.
